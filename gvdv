@@ -1,0 +1,33 @@
+package dziendobry;
+import java.util.*;
+import java.io.*;
+import java.lang.*;
+  class TypyDanych {
+	  public static void main (String []Args) {
+		  String a ="Ala ma kota";
+		  String b ="1 2 3 5 7 8 9 19";
+		  String c ="* / - + ,";
+		  String d ="Ala 45 / *+- ma kota 79 56";
+		  System.out.println(a);
+		  System.out.println(b);
+		  System.out.println(c);
+		  System.out.println(d);	 
+	int e =1234579;
+	//char t ='Anna Kowalska';
+	//char g ='* / - +';
+	//char h ='Ale 45 123 *, - .';
+	  System.out.println(e);
+	  //System.out.println(t);
+	 // System.out.println(g);
+	 // System.out.println(h);
+	        double i =2.567;
+			double j=356;
+			//double k ="Alicja";
+			//double l='+ - / ;';
+			  System.out.println(i);
+			  System.out.println(j);
+			//  System.out.println(k);
+			//  System.out.println(l);
+	  }
+  }
+
